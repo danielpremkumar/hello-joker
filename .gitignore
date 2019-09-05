@@ -1,4 +1,12 @@
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Intellij
 .idea/
+*.iml
+*.iws
 target/
 pom.xml.tag
 pom.xml.releaseBackup
